@@ -11,15 +11,15 @@ class Resume extends Component{
                    <Cell col={4} className="resume-left-col">
                         <div style = {{marginTop:'0px'}}>
                             <h2 style = {{paddingTop : '2em', marginTop:'0px'}}>Sulav Poudyal</h2>
-                            <h5 style={{color:'grey'}}>
+                            <p style={{color:'grey'}}>
                             416 Loma Alta Dr, Flower Mound TX 75022
-                            </h5>
-                            <h5 style={{color:'grey'}}>
+                            </p>
+                            <p style={{color:'grey'}}>
                                 sulavpoudyal@hotmail.com
-                            </h5>
-                            <h5 style={{color:'grey'}}>
+                            </p>
+                            <p style={{color:'grey'}}>
                                 +1 318-450-9013
-                            </h5>
+                            </p>
                             
                         </div>
                    </Cell>
